@@ -1,10 +1,10 @@
 #include "main.h"
 #include <stdio.h>
-
- // print_number - prints number with _putchar
- // @n: input number
- // Return: returns void
- 
+/**
+  * print_number - prints number with _putchar
+  * @n: input number
+  * Return: returns void
+ **/
 void print_number(int n)
 {
 	unsigned int number;
